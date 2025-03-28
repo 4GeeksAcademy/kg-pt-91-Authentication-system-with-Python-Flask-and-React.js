@@ -98,7 +98,7 @@ export const Signup = () => {
         <div className="card shadow p-4" style={{ maxWidth: "400px", width: "100%" }}>
             <div className="card-body text-center">
                 <Navbar />
-                <h1 className="mb-3">Crea tu Cuenta</h1>
+                <h1 className="mb-3">Cree su Cuenta</h1>
     
                 <form noValidate onSubmit={handleSignUp}>
                     <div className="mb-3 text-start">
